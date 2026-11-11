@@ -13,3 +13,6 @@ dist/
 # lock files
 Cargo.lock
 **/pnpm-lock.yaml
+
+# intellij cache
+/.idea
